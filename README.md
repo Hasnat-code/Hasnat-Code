@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hasnat Imtiaz</h1>
 <h3 align="center">A passionate Software Engineering student bridging the gap between low-level systems and <br>modern web development</h3>
 <br>
-🔭 I’m currently working on Programming and Computer Networks with Data Base Integration  <br><br>🌱 I’m currently learning Full stack Web Development <br><br>🔰 My Learning Roadmap includes Devops, Data Science, Computer Vision and NLP<br><br>👨‍💻 All of my projects are available at https://github.com/hasnat-code<br><br>📫 Reach me at  hasnatimtiaz949@gmail.com
+🔭 I’m currently working on Programming and Computer Networks with Data Base Integration  <br><br>🌱 I’m currently learning Full stack Web Development <br><br>🔰 My Learning Roadmap includes Devops, Data Science, Cyber Security and NLP<br><br>👨‍💻 All of my projects are available at https://github.com/hasnat-code<br><br>📫 Reach me at  hasnatimtiaz949@gmail.com
 
 <br>
 
